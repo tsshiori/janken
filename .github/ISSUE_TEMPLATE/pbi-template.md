@@ -1,6 +1,6 @@
 ---
 name: PBI Template
-about: ''
+about: ProductBuglogのテンプレートです。
 title: ''
 labels: ''
 assignees: ''
