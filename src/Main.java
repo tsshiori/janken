@@ -21,7 +21,7 @@ public class Main {
         System.out.println(user.getPlayerName());
         com.setPlayerName("コンピュータ");
         System.out.println(com.getPlayerName());
-        
+
 
     }
 
